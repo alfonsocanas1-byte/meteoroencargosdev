@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "meteoro-encargos-pedidos",
+  "private_key_id": "c30405666afdcaed677efb9136eb804dd8aef5d6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCr10IlbMP5bCas\nilY4Sq9OzWtHQ48O6si9uyM6Fp9WjQuMXMAf4G5gVAVyQoqmvAwsdGe3MrNiqnDo\nyqJ1GLRSJwEvbHqV6QwB26w2C1enh4a9nu8zqCBtlOKPtzuqVEEP+N13Peb/WiHJ\nZyDBp6W+YStRfUv7MDa0Zu2yfBk5eywOQmnLJku09grN9RMAJosqU5Bp/L8V6uXB\nmBKxzxM17ORvMjDprXnPv3lPOyycSoXbEFdl0LvGITtJVANrXZsBOzmQ1gWnujJD\niPsr8hTZt5m0rjEEgSMu61s/pQuah0gmhm+gmrHIg04QAI4pYYfK/5Rwt9Iw+7g1\nKkbQTShLAgMBAAECggEASwxR2SJtXGs9YLFyAlerxJC2P4Nj4THsxeAK/H2QzS4A\nUybWyZUs32kSj9o7z6Hk9y1Hdpzv9zFU6nZFCTrm1dIvFFUeHIaRNeaIiXneqE3q\nLLpS4Y6VywXxBK8Tocn2OFGJ91/TmMX2Z41govLi0giB8K72FhfybEtfmEnWgmFu\n9zxQvDcRcuby+q3zL1VLzxy6dhs8SRWsHIElgTXs/nuE9A6t/m9Bx8rnn8zsokCn\nI0fMVg3wKCBUVwP23sLKyAGmS+ibCaUugr2Y0X3BTe5VlyV8NjlUFWJWeGmK5mL7\nmor/bLb7dgZcY+FxLy+xihyKbH5Ab46DTSLuHlYD8QKBgQDkbahHpE4hUj7wnppl\nikHSOQw9KzLBcykHKUrKUwyJRBPJMGDqwYbukG+9sWoUUTNvak0v8XNEgicUlcM/\naOLcqGkJngzbtyfaiFmzNIisjKRTtIqbU9JY8KqPyYb6MG/c3QwMhRQY9mYW8I3p\nQeOfoi6dJLVxeV1xpjVpO5TYbQKBgQDAlRIOnOjARbJhfcAfoVuZHZC5jyDVy6sW\nQwjp07yiROq7QqYb6ZoMCLE2LlmB6dZx1SSvTMaYACh6UT+bd92iZfJ9rVpkCe9z\nOewvl8H3KP9r8kQTYFCImr/7bmO7OqKAQaM5/Bw2o/tQLqeHy1h6XNEj3Yrya2M3\n8mC4k5eAlwKBgD2BQSQ5G0hhiszjB5N7jIl8Ds2RihMIXO2uspKTlfaHvAQZ4J6V\nCS3G+i9LS9K4om7HYo0cJ/s0SC2EvZOfPCZJui56vd+TC0oOGIjmBj7fh4d6Py/f\ne+2yr1oT2yIWVKhVZF8ineyyu35FuxApS4657m8laS1qjjyBkjQJdORpAoGARwVy\nwFLbfzT04QFIHiIarq/5lIUVPeM7eB1Gpzz/3vP9gQvGSJrwxala+TlEpyV+gUJy\nofd1cc71Ho7iH0qoQODJ+dE5eZU0alEdKjwUOzsyXzPcKS0m5gnz7Ry7yOuJzDTo\nplS0bu4wm1RpUioKui2Kr2hfeqFh2NsZEljT0YcCgYA9tD8EMQMSVEdSfX0uMheL\nHZTPoXSffQfMm1yOODir8QT/2iGgaxwSuzv4ipjW45zYCk4RrkV/0r47uw2W2M0L\nHKbeNss9PgVRI5m1McEHojlHTWVxAdN76ug5xCDn7Siz6G3/N1vIVW5G2b5ymvuq\nmUiSTm4UM5Radv0Lx64IGA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@meteoro-encargos-pedidos.iam.gserviceaccount.com",
+  "client_id": "116781609645392248618",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40meteoro-encargos-pedidos.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
